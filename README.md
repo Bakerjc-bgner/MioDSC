@@ -1,4 +1,4 @@
-# MADSC
- Multi agent deep skill chaining for paper 《MADSC: Multi-Agent Deep SKill Chaining with Diverified Exploration toward Efficient Reinforcement Learning》
+# MioDSC
+ Multi agent deep skill chaining for paper 《MioDSC: Mutual information Oriented Deep Skill Chaining for Multi-agent reinforcement learning》
 
  
